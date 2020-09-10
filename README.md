@@ -1,0 +1,2 @@
+# django_docker_template
+Docker環境でのDjango, MySQLのアプリのテンプレート
